@@ -1,0 +1,10 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 PA.py 
+is_power(10, 2) returns:  False
+is_power(27, 3) returns:  True
+is_power(1, 1)  returns:  True
+is_power(10, 1) returns:  True
+is_power(3, 3)  returns:  True
+>>> 

@@ -1,0 +1,15 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 2\Unit 2 LJ.py 
+The volume of a sphere with three different radiuses.
+
+Radius of 3:
+113.04
+
+Radius of 4:
+267.95
+
+Radius of 5:
+523.33
+>>> 

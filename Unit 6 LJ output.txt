@@ -1,0 +1,14 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 6\Unit 6 LJ.py 
+All I want for Christmas is my two front teeth
+teeth All for front is my two want I Christmas
+All I want for Christmas is my two front teethAll I want for Christmas is my two front teeth
+['teeth']
+['is']
+for
+front
+[0]
+[0, 0]
+>>> 

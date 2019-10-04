@@ -1,0 +1,18 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 7\Unit 7 PA.py 
+Part 1
+
+zzz has duplicates
+dog has no duplicates
+bookkeeper has duplicates
+subdermatoglyphic has no duplicates
+subdermatoglyphics has duplicates
+
+Part 2
+
+zzz is missing letters abcdefghijklmnopqrstuvwxy
+subdermatoglyphic is missing letters fjknqvwxz
+the quick brown fox jumps over the lazy dog uses all the letters
+>>> 

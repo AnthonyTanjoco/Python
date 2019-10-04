@@ -1,0 +1,38 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.0.py 
+1 1 -1 -1
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.1.py 
+1.0
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.2.py 
+The slope of a line with points (1, 1) & (-1, -1) is:  1.0
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.3.py 
+The slope of a line with points (1, 1) & (-1, -1) is:  1.0
+The slope of a line with points (4,5) & (-2, -3) is:  1.3333333333333333
+The slope of a line with points (-1, -6) & (-5, -5) is:  -0.25
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.4.py 
+Please enter the x1 point: 5
+please enter the y1 point: 5
+Please enter the x2 point: 1
+please enter the y2 point: 1
+The slope of your line is:  1.0
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.4.py 
+Please enter the x1 point: -2
+please enter the y1 point: -2
+Please enter the x2 point: -5
+please enter the y2 point: -5
+The slope of your line is:  1.0
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 2.4.py 
+Please enter the x1 point: -1
+please enter the y1 point: -1
+Please enter the x2 point: -5
+please enter the y2 point: 5
+The slope of your line is:  -1.5
+>>> 

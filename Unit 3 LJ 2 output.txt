@@ -1,0 +1,10 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 3/Unit 3 LJ 2.py 
+Please enter your first name? Anthony
+Traceback (most recent call last):
+  File "C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 3/Unit 3 LJ 2.py", line 15, in <module>
+    standard_name(number)
+NameError: name 'number' is not defined
+>>> 

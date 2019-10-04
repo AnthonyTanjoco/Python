@@ -1,0 +1,52 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 3\Unit 3 LJ 1.2.py 
+Please enter a number? 10
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Blastoff!
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 3\Unit 3 LJ 1.2.py 
+Please enter a number? -10
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+Blastoff!
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 3\Unit 3 LJ 1.2.py 
+Please enter a number? -3
+-3
+-2
+-1
+Blastoff!
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 3\Unit 3 LJ 1.2.py 
+Please enter a number? 0
+Blastoff!
+>>> 
+ RESTART: C:\Users\anthony.tanjoco\OneDrive\UoPeople\CS 1101 Programming Fundamentals\Unit 3\Unit 3 LJ 1.2.py 
+Please enter a number? -5
+-5
+-4
+-3
+-2
+-1
+Blastoff!
+>>> 

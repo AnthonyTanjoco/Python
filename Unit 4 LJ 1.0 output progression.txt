@@ -1,0 +1,30 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.0.py 
+3
+4
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.1.py 
+Traceback (most recent call last):
+  File "C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.1.py", line 11, in <module>
+    hypotenuse(3, 4)
+  File "C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.1.py", line 8, in hypotenuse
+    c_sqrt = math.sqrt(c_sum)
+NameError: name 'math' is not defined
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.1.py 
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.1.py 
+The hypotenuse of a 3, 4 triangle is:  5.0
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.2.py 
+The hypotenuse of a 3:4 triangle is:  5.0
+The hypotenuse of a 5:7 triangle is:  8.602325267042627
+The hypotenuse of a 10:12 triangle is:  15.620499351813308
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 4/Unit 4 LJ 1.3.py 
+The hypotenuse of a 3:4 triangle is:  5.0
+The hypotenuse of a 5:7 triangle is:  8.6
+The hypotenuse of a 10:12 triangle is:  15.6
+>>> 

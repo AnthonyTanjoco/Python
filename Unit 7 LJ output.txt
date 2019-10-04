@@ -1,0 +1,12 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/anthony.tanjoco/OneDrive/UoPeople/CS 1101 Programming Fundamentals/Unit 7/Unit 7 LJ.py 
+Original Dictionary
+
+{'fam1': ['Erica', 'Dawn', 'Tanjoco'], 'fam2': ['Moriah', 'Elizabeth', 'Tanjoco'], 'fam3': ['Joseph', 'Anthony', 'Tanjoco']}
+
+Inverted Dictionary
+
+{('Erica', 'Dawn', 'Tanjoco'): ['fam1'], ('Moriah', 'Elizabeth', 'Tanjoco'): ['fam2'], ('Joseph', 'Anthony', 'Tanjoco'): ['fam3']}
+>>> 
